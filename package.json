@@ -9,6 +9,15 @@
   "author": "Lwazi",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.13.0"
-  }
+    "node-sass": "^4.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gugulethu-webdev/responsive-website.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Gugulethu-webdev/responsive-website/issues"
+  },
+  "homepage": "https://github.com/Gugulethu-webdev/responsive-website#readme"
 }
